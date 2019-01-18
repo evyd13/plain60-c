@@ -1,0 +1,9 @@
+(module free_pin (layer F.Cu) (tedit 5C290DA4)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value B0 (at -1.19063 0) (layer F.SilkS)
+    (effects (font (size 1.2 1.2) (thickness 0.2)) (justify right))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+)
