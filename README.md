@@ -20,6 +20,9 @@ It also features a fuse and an ESD protection chip to protect the MCU and other 
 ## Building
 If you feel like building a few of these PCBs yourself, go to the 'Releases' tab and download the latest gerber files. Order those at your favourite PCB manufacturer, get the components needed (see below) and solder them on! A hot air station is not required but a soldering iron is. Flux is recommended.
 
+## Opening the project
+To open the files you will need the latest KiCAD nightly version.
+
 ## Bill of materials (BOM)
 Amount is per PCB, multiply as needed.
 
