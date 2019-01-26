@@ -2091,7 +2091,7 @@ F 1 "KEYSW" H 2350 8650 60  0001 C CNN
 F 2 "Keeb_switches:CHERRY_PLATE_125H" H 2350 8750 60  0001 C CNN
 F 3 "" H 2350 8750 60  0000 C CNN
 	1    2350 8750
-	-1   0    0    -1  
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:D D62
@@ -2393,7 +2393,7 @@ F 1 "KEYSW" H 2350 8450 60  0001 C CNN
 F 2 "Keeb_switches:CHERRY_PLATE_100H" H 2350 8550 60  0001 C CNN
 F 3 "" H 2350 8550 60  0000 C CNN
 	1    2350 8550
-	-1   0    0    -1  
+	1    0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:KEYSW K63-1

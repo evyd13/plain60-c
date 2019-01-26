@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(6.0.0-rc1-dev-1295-gd607c4853)")
+(kicad_pcb (version 20171130) (host pcbnew "(6.0.0-rc1-dev-1569-g3526c9a37)")
 
   (general
     (thickness 1.6)
@@ -6237,7 +6237,7 @@
     (fp_text reference U2 (at 0 -2.381252 180) (layer B.SilkS)
       (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value USBLC6-2P6 (at 0 -2.9) (layer B.Fab)
+    (fp_text value USBLC6-2SC6 (at 0 -2.9) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user %R (at 0 0 -180) (layer B.Fab)
