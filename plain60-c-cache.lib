@@ -300,14 +300,13 @@ X 2 2 300 0 200 L 60 60 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# keyboard_parts_USBLC6-2P6
+# keyboard_parts_USBLC6-2SC6
 #
-DEF keyboard_parts_USBLC6-2P6 D 0 40 Y Y 1 F N
+DEF keyboard_parts_USBLC6-2SC6 D 0 40 Y Y 1 F N
 F0 "D" -300 200 50 H V L CNN
-F1 "keyboard_parts_USBLC6-2P6" -300 -200 50 H V L CNN
-F2 "agg:SOT-666" -300 -300 50 H I L CNN
-F3 "http://www.st.com/resource/en/datasheet/usblc6-2.pdf" -300 -400 50 H I L CNN
-F4 "1295310" -300 -500 50 H I L CNN "Farnell"
+F1 "keyboard_parts_USBLC6-2SC6" -300 -200 50 H V L CNN
+F2 "" -300 -300 50 H I L CNN
+F3 "" -300 -400 50 H I L CNN
 DRAW
 S -300 150 300 -150 0 1 0 f
 X I/O1 1 -400 100 100 R 50 50 0 0 P
