@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\Maarten\Documents\GitHub\plain60-c\plain60-c.sch)
-    (date "26-1-2019 19:05:45")
+    (date "30-1-2019 23:00:36")
     (tool "Eeschema (6.0.0-rc1-dev-1569-g3526c9a37)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -983,7 +983,7 @@
       (tstamp 5C80A9A3))
     (comp (ref K44-1)
       (value KEYSW)
-      (footprint Keeb_switches:CHERRY_PCB_200H_V_F)
+      (footprint Keeb_switches:CHERRY_PCB_200H_V)
       (libsource (lib keyboard_parts) (part KEYSW) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C818730))
