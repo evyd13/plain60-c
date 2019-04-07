@@ -32,7 +32,7 @@ Amount is per PCB, multiply as needed.
 | C128353     | Capacitor     | 0.1uF | 0805     | 4      |
 | C131056     | Capacitor     | 4.7uF | 0805     | 1      |
 | C215803     | Capacitor     | 1uF   | 0805     | 1      |
-| C53365      | Diode         |       | 0805     | 65     |
+| C109001     | Diode         |       | 0805     | 65     |
 | C261942     | Fuse          |       | 0805     | 1      |
 | C165948     | Connector     |       | SMD/THT  | 1      |
 | C103904     | Resistor      | 10K   | 0805     | 2      |
