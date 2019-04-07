@@ -1,6 +1,6 @@
 # Plain60-C
 
-![Plain60-C PCB](https://i.imgur.com/OwOP9Vb.png)
+![Plain60-C PCB](https://i.imgur.com/TpUcgKz.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
@@ -15,7 +15,7 @@ It also features a fuse and an ESD protection chip to protect the MCU and other 
 - ISP header
 
 ## Supported layouts
-![Supported layouts of the Plain60-C](https://i.imgur.com/TpUcgKz.png)
+![Supported layouts of the Plain60-C](https://i.imgur.com/dq04Csv.png)
 
 ## Building
 If you feel like building a few of these PCBs yourself, go to the 'Releases' tab and download the latest gerber files. Order those at your favourite PCB manufacturer, get the components needed (see below) and solder them on! A hot air station is not required but a soldering iron is. Flux is recommended.
