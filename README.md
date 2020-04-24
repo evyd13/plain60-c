@@ -1,14 +1,16 @@
-# Plain60-C
+# Plain60-C rev2
 
-![Plain60-C PCB](https://i.imgur.com/TpUcgKz.png)
+![Plain60-C PCB](https://i.imgur.com/xNOM7UB.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
 
 ## Features
-- QMK Firmware
+- Compatible with QMK Firmware and VIA Configurator (if you flash a VIA compatible .hex file)
 - Compatible with most universal 60% cases and HHKB/WKL Tofu by KBDfans
 - USB type-C
+- Optional JST header for connection with daughterboard
+- Footprint for optional speaker (AST1109MLTRQ)
 - ESD protection and fuse
 - No LEDs and no underglow
 - Minimal layout support
@@ -28,7 +30,6 @@ Amount is per PCB, multiply as needed.
 
 | LCSC part # | Description   | Value | Package  | Amount |
 | ----------- | ------------- | ----- | -------- | ------:|
-| C296091     | Capacitor     | 22pF  | 0805     | 2      |
 | C128353     | Capacitor     | 0.1uF | 0805     | 4      |
 | C131056     | Capacitor     | 4.7uF | 0805     | 1      |
 | C215803     | Capacitor     | 1uF   | 0805     | 1      |
@@ -40,5 +41,5 @@ Amount is per PCB, multiply as needed.
 | C325772     | Resistor      | 22    | 0805     | 2      |
 | C44854      | MCU           | 32U4  | QFP-44   | 1      |
 | C7519       | ESD chip      |       | SOT23-6  | 1      |
-| C255909     | Crystal       | 16MHz | TSX-3225 | 1      |
+| C341521     | Resonator     | 16MHz | SMD      | 1      |
 | C92584      | Switch        |       | SMD      | 1      |
