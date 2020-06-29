@@ -37,7 +37,7 @@ Amount is per PCB, multiply as needed.
 | C261942     | Fuse          |       | 0805     | 1      |
 | C165948     | Connector     |       | SMD/THT  | 1      |
 | C103904     | Resistor      | 10K   | 0805     | 2      |
-| C147798     | Resistor      | 5.1K  | 0805     | 2      |
+| C212411     | Resistor      | 5.1K  | 0805     | 2      |
 | C325772     | Resistor      | 22    | 0805     | 2      |
 | C44854      | MCU           | 32U4  | QFP-44   | 1      |
 | C7519       | ESD chip      |       | SOT23-6  | 1      |
