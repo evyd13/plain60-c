@@ -1,6 +1,6 @@
-# Plain60-C rev2
+# Plain60-C rev2.1
 
-![Plain60-C PCB](https://i.imgur.com/xNOM7UB.png)
+![Plain60-C PCB](https://i.imgur.com/njvRYSm.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
@@ -43,3 +43,4 @@ Amount is per PCB, multiply as needed.
 | C7519       | ESD chip      |       | SOT23-6  | 1      |
 | C341521     | Resonator     | 16MHz | SMD      | 1      |
 | C92584      | Switch        |       | SMD      | 1      |
+| C160404     | Optional JST  |       | SMD      | 1      |
